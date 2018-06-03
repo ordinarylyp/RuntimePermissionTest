@@ -1,0 +1,2 @@
+# RuntimePermissionTest
+Android权限
